@@ -1,0 +1,23 @@
+print("Dheemanth D Shetty")
+
+
+#single line comment
+print("Hi")
+"""
+Multi 
+line
+comment
+"""
+print("dhee")
+
+
+int = 5
+bool = 'true'
+string = 'A'
+float = 6.65
+print("integer:", int)
+print("boolean:", bool)
+print("string:", string)
+print("floating:", float)
+
+
