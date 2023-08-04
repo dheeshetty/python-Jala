@@ -1,3 +1,6 @@
+PYTHON BASICS
+*************
+
 print("Dheemanth D Shetty")
 
 
@@ -20,4 +23,12 @@ print("boolean:", bool)
 print("string:", string)
 print("floating:", float)
 
+
+var="local variable"
+def example():
+    var="global variable"
+    print("inside",var)
+#call the function
+example()
+print("outside",var)
 
